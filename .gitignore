@@ -1,0 +1,34 @@
+# idea conf files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+.iml
+
+*.mode1v3
+*.perspectivev3
+*.pbxuser
+.DS_Store
+build
+www/phonegap.js
