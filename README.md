@@ -1,7 +1,7 @@
 ## Cloud CMS Phone Gap Integration ##
 
 This project provides sample applications of Cloud CMS Phone Gap Integration. It can serve as starting point for
-developers to use Cloud CMS as content platform for their Phone Gap Application.
+developers to use Cloud CMS as content platform for their Phone Gap Applications.
 
 ### Resources
 
