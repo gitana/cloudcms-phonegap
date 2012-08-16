@@ -1,21 +1,23 @@
-## Cloud CMS Phone Gap Integration ##
+## Welcome to Cloud CMS PhoneGap Project ##
 
-This project provides sample applications of Cloud CMS Phone Gap Integration. It can serve as starting point for
-developers to use Cloud CMS as content platform for their Phone Gap Applications.
+This project provides reference applications which demonstrate how to build a PhoneGap application
+on top of Cloud CMS platform. It is intended to help PhoneGap developers to get started with developing
+mobile projects with Cloud CMS platform as their content platform.
+
+* Hello World (iOS and Android): A simple application that shows how to make connection to Cloud CMS platform.
 
 ### Resources
 
-* Cloud CMS
-http://www.cloudcms.com
+* Cloud CMS: http://www.cloudcms.com
+* Git Hub: http://github.com/gitana/cloudcms-phonegap
+* JavaScript Driver: http://code.cloudcms.com/javascript-driver
+* JavaScript Driver Documentation: http://docs.cloudcms.com
+* JavaScript Driver Samples: http://code.cloudcms.com/javascript-samples/#/
+* Getting Started Guide: http://www.cloudcms.com/tour/resources/developers/phonegap
 
-* Cloud CMS JavaScript Driver
-http://code.cloudcms.com/gitana-javascript-driver/index.html
+### Questions and Bug Reports
 
-* Cloud CMS Samples
-http://code.cloudcms.com/javascript-samples/#/
-
-* Cloud CMS Docs
-http://docs.cloudcms.com
+http://github.com/gitana/cloudcms-phonegap
 
 ### Maintainers
 
